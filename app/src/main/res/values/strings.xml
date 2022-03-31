@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WikiClient</string>
+
+    <string name="search">検索</string>
+</resources>
